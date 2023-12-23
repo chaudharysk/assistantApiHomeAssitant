@@ -1,4 +1,4 @@
-# GPT-3 Powered Home Assistant
+# GPT-3 Powered Home Assistant(FULL CODE AND TUTORIAL WILL BE UPLOADED SOON)
 
 Welcome to the GPT-3 Powered Home Assistant project! This home assistant leverages the capabilities of GPT-3, the Open API Assistants API, and the Tuya IoT Cloud to provide a versatile and intelligent smart home experience.
 
